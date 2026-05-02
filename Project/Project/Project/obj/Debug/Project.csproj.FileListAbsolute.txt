@@ -1,0 +1,49 @@
+C:\Users\223034963\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\223034963\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\223034963\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\223034963\source\repos\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\223034963\source\repos\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\223034963\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\223034963\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\223034963\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\223034963\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\223034963\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\223034963\source\repos\Project\Project\obj\Debug\Project.exe.config
+C:\Users\223034963\source\repos\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\223034963\source\repos\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\223034963\source\repos\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\223034963\source\repos\Project\Project\obj\Debug\Project.Form5.resources
+E:\My music\Project\Project\bin\Debug\Project.exe.config
+E:\My music\Project\Project\bin\Debug\Project.exe
+E:\My music\Project\Project\bin\Debug\Project.pdb
+E:\My music\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\My music\Project\Project\obj\Debug\Project.Form2.resources
+E:\My music\Project\Project\obj\Debug\Project.Form3.resources
+E:\My music\Project\Project\obj\Debug\Project.Form5.resources
+E:\My music\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\My music\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\My music\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\My music\Project\Project\obj\Debug\Project.exe
+E:\My music\Project\Project\obj\Debug\Project.pdb
+E:\My music\Project\Project\obj\Debug\Project.Form6.resources
+E:\My music\Project\Project\obj\Debug\Project.Form7.resources
+E:\My music\Project\Project\obj\Debug\Project.Form8.resources
+E:\My music\Project\Project\obj\Debug\Project.Form1.resources
+E:\My music\Project\Project\obj\Debug\Project.exe.config
+D:\My music\Project\Project\bin\Debug\Project.exe.config
+D:\My music\Project\Project\bin\Debug\Project.exe
+D:\My music\Project\Project\bin\Debug\Project.pdb
+D:\My music\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\My music\Project\Project\obj\Debug\Project.exe.config
+D:\My music\Project\Project\obj\Debug\Project.Form1.resources
+D:\My music\Project\Project\obj\Debug\Project.Form2.resources
+D:\My music\Project\Project\obj\Debug\Project.Form3.resources
+D:\My music\Project\Project\obj\Debug\Project.Form5.resources
+D:\My music\Project\Project\obj\Debug\Project.Form6.resources
+D:\My music\Project\Project\obj\Debug\Project.Form7.resources
+D:\My music\Project\Project\obj\Debug\Project.Form8.resources
+D:\My music\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\My music\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\My music\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\My music\Project\Project\obj\Debug\Project.exe
+D:\My music\Project\Project\obj\Debug\Project.pdb
